@@ -17,10 +17,10 @@
 "https://github.com/souissihaythem/loadz_totem/releases "
 - You need to click in "Draft a new release" and upload the apk 
 
-![](screenshot/screenshot_1.png)
+![](https://github.com/souissihaythem/loadz_totem/blob/main/screenshot/screenshot_1.png?raw=true)
 - Fill all instruction and attach your apk in this release :  
 
-![](screenshot/screenshot_4.png)
+![](https://github.com/souissihaythem/loadz_totem/blob/main/screenshot/screenshot_4.png?raw=true)
 ```
 
 ## Change  ChangeLog file
@@ -34,5 +34,5 @@ FolderName  (here we have : v1.0.15)
 apk name (here we have : loadz-release-V1.0.15.apk)
 and save all change
 
-![](screenshot/screenshot_4.png)
+![](https://github.com/souissihaythem/loadz_totem/blob/main/screenshot/screenshot_3.png?raw=true)
 ```

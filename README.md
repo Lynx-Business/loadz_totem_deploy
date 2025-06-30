@@ -9,7 +9,7 @@
   "versionCode 15"
   versionName "1.0.15"
   
-- After you generate a new build that have this format like a name "loadz-release-V{versionName}.apk"
+- After you generate a new build that have this format like a name "loadz-release-V{versionName}-bigdisplay.apk"
   ```
 
 ## Upload an Apk to Github 

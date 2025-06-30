@@ -1,5 +1,7 @@
 # LOADZ Apk publish instruction
-
+```
+- Make sure to use the right branch if you're making a new version for the big display use the /mainBigDisplay if it's for the small one use the /main
+  ```
 ## Build an apk with android studio
 
 ```

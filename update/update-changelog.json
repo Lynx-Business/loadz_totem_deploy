@@ -1,9 +1,9 @@
 {
-  "latestVersion": "2.0.0",
-  "latestVersionCode": 100,
-  "url": "https://github.com/Lynx-Business/loadz_totem_deploy/releases/download/2.0.0-mainBigDisplay/loadz-release-V2.0.0-mainBigDisplay.apk",
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 1,
+  "url": "https://github.com/Lynx-Business/loadz_totem_deploy/releases/download/1.0.1-display/loadz-release-V1.0.1-display.apk",
   "releaseNotes": [
-    "version 2.0.0"
+    "- test"
   ]
 }
 
